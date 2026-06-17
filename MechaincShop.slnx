@@ -7,4 +7,8 @@
     <Project Path="Src/MechanicShop.Domain/MechanicShop.Domain.csproj" />
     <Project Path="Src/MechanicShop.Infrastructure/MechanicShop.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/Test/" />
+  <Folder Name="/requests/">
+    <File Path="requests/request.http" />
+  </Folder>
 </Solution>

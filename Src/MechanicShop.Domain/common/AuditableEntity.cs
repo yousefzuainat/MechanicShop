@@ -2,7 +2,7 @@ namespace MechanicShop.Domain.Comon;
 
 public abstract class AuditableEntity : Entity {
     
-    public AuditableEntity(Parameters)
+    protected AuditableEntity()
     {
         
     }
